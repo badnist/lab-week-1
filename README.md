@@ -16,3 +16,12 @@ git push origin main
 git add .
 git commit -m "update - added some content to index.html"
 git push origin master
+
+
+git config --global user.name "Your Name"
+
+git config --global user.name "Ryan Marzban"
+
+git config --global user.email "ryan.marzban@outlook.com"
+
+git config --global user.name "Ryan Marzban"
